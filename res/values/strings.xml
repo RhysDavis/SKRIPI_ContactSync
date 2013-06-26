@@ -4,5 +4,31 @@
     <string name="app_name">ContactSync</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="app_title">CONTACT SYNC</string>
+    <string name="retrieve">RETRIEVE CONTACTS</string>
+    <string name="sync">SYNC CONTACTS</string>
+
+    <!-- Sync times -->
+    <string name="last_sync">last sync: </string>
+    <string name="never">never</string>
+    <string name="days_ago">days ago</string>
+    <string name="day ago">day ago</string>
+
+    <!-- Settings -->
+    <string name="auto_sync">AUTO SYNC</string>
+    <string name="auto_sync_desc">Automatically keeps your contacts synchronised, ready for retrieving through this app on any phone</string>
+    <string name="change_pin">CHANGE PIN</string>
+    <string name="change_pin_desc">Change the PIN number used to access the contacts for this phone number</string>
+
+    <!-- Dialogs -->
+    <string name="unlock_sync">UNLOCK SYNC</string>
+    <string name="unlock_sync_body">Synchronise your contacts to access anywhere via pin</string>
+    <string name="action_unlock">Unlock</string>
+    <string name="sync_contacts_body">Choose PIN</string>
+    <string name="phone_number">PHONE NUMBER</string>
+    <string name="pin">PIN</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_set">Set</string>
+    <string name="action_sync">Sync</string>
 
 </resources>
