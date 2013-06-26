@@ -12,7 +12,7 @@
     <string name="last_sync">last sync: </string>
     <string name="never">never</string>
     <string name="days_ago">days ago</string>
-    <string name="day ago">day ago</string>
+    <string name="day_ago">day ago</string>
 
     <!-- Settings -->
     <string name="auto_sync">AUTO SYNC</string>
